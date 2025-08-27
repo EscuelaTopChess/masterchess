@@ -1,2 +1,2 @@
 # masterchess
-Plataforma de aprendizaje de ajedrez
+Plataforma de gestión de alumnos para los profesores.
